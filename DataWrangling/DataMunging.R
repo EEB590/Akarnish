@@ -1,3 +1,10 @@
 library(readxl)
 setwd("~/My Depository/Data")
 data<-read_excel("SeedHandlingdatabase_Alex.xlsx")
+library(reshape2) #for melt - note that many reshape2 functions are now available using tidyr, so probably best to use just tidyr
+library(tidyr)
+library(dplyr) #note that many functions are similar for plyr and dplyr but have slightly different syntax in dplyr. Use the newer one (dplyr) to avoid issues between two packages. 
+library(ggplot2)
+levels(as.factor(data$location1))
+levels(as.factor(data$location2))
+levels(as.factor(data$location3))
