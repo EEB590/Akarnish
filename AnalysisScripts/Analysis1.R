@@ -1,0 +1,6 @@
+workingdata<-read.csv("workingdata.csv")
+library(plyr)
+count(workingdata$location1)
+count(workingdata$location2)
+count(workingdata$location3)
+str(data$location1)
