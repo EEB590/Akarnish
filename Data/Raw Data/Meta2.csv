@@ -1,0 +1,44 @@
+numid,plant.genus,plant.species,frug.taxon,frug.genus,frug.species,"germ effect (pos, neg, no, NA)","rate effect (pos, neg, no, NA)",compare against,fleshy fruit? (yes or no),gut passed prop germ,no germ,gut passed sample size,comparison prop germ,no germ,comparison sample size,notes about proportion and sample size,requests for help,help assigned to,notes,name,name2
+4,Acacia,aroma,non-flying mammal other than primate,Bos,tauros,pos,NA,mechanically cleaned fruit,?,0.7145,0.2855,120,0.0667,0.9333,120,indehiscent pod; non-scarified seeds for both gut and control; 3 trials of 40 seeds in each treatment,,,,Alex,AMG
+4,Acacia,atramentaria,non-flying mammal other than primate,Bos,tauros,no,NA,mechanically cleaned fruit,?,0,1,120,0.0167,0.9833,120,indehiscent pod; non-scarified seeds for both gut and control; 3 trials of 40 seeds in each treatment,,,,Alex,AMG
+4,Acacia,caven,non-flying mammal other than primate,Bos,tauros,no,NA,mechanically cleaned fruit,?,0,1,120,0.0167,0.9833,120,indehiscent pod; non-scarified seeds for both gut and control; 3 trials of 40 seeds in each treatment,,,,Alex,AMG
+4,Acacia,aroma,non-flying mammal other than primate,Bos,tauros,pos,NA,mechanically cleaned fruit,?,1,0,120,0.9644,0.0356,120,indehiscent pod; scarified seeds for both gut and control; 3 trials of 40 seeds each treatment,,,,Alex,AMG
+4,Acacia,atramentaria,non-flying mammal other than primate,Bos,tauros,no,NA,mechanically cleaned fruit,?,0.8833,0.1167,120,0.8814,0.1186,120,indehiscent pod; scarified seeds for both gut and control; 3 trials of 40 seeds each treatment,,,,Alex,AMG
+4,Acacia,caven,non-flying mammal other than primate,Bos,tauros,no,NA,mechanically cleaned fruit,?,1,0,120,1,0,120,indehiscent pod; scarified seeds for both gut and control; 3 trials of 40 seeds each treatment,,,,Alex,AMG
+76,Campomanesia,sp.,non-flying mammal other than primate,Chrysocyon,brachyurus,no,NA,mechanically cleaned fruit,yes,0.77,0.23,18,0.97,0.03,34,,,,locality PNSC,Alex,Evan
+76,Campomanesia,pubescens,non-flying mammal other than primate,Chrysocyon,brachyurus,no,NA,mechanically cleaned fruit,yes,0.975,0.025,120,0.99,0.01,120,,,,locality EEJA,Alex,Evan
+76,Campomanesia,pubescens,non-flying mammal other than primate,Chrysocyon,brachyurus,no,NA,mechanically cleaned fruit,yes,0.98,0.02,50,1,0,50,,,,locality EEJA,Alex,Evan
+76,Campomanesia,pubescens,non-flying mammal other than primate,Chrysocyon,brachyurus,no,NA,mechanically cleaned fruit,yes,0.75,0.25,65,1,0,65,,,,locality EASB,Alex,Evan
+76,Campomanesia,pubescens,non-flying mammal other than primate,Chrysocyon,brachyurus,neg,NA,mechanically cleaned fruit,yes,0,1,50,0.98,0.02,50,,,,locality EASB,Alex,Evan
+76,Duguetia,furfuracea,non-flying mammal other than primate,Chrysocyon,brachyurus,neg,NA,mechanically cleaned fruit,yes,0.175,0.825,40,0.4,0.6,40,,,,locality EEJA,Alex,Evan
+76,Duguetia,furfuracea,non-flying mammal other than primate,Chrysocyon,brachyurus,no,NA,mechanically cleaned fruit,yes,0.14,0.86,50,0.22,0.78,50,,,,locality EEJA,Alex,Evan
+76,Melancium,campestre,non-flying mammal other than primate,Chrysocyon,brachyurus,no,NA,mechanically cleaned fruit,yes,0.452,0.548,147,0.542,0.458,147,,,,locality PFSP,Alex,Evan
+76,Psidium,guajava,non-flying mammal other than primate,Chrysocyon,brachyurus,no,NA,mechanically cleaned fruit,yes,0.97,0.03,800,0.95,0.05,800,,,,locality FFOR,Alex,Evan
+76,Solanum,sisymbriifolium,non-flying mammal other than primate,Chrysocyon,brachyurus,pos,NA,mechanically cleaned fruit,yes,0.107,0.893,300,0.023,0.977,300,,,,locality EITA,Alex,Evan
+76,Solanum,crinitum,non-flying mammal other than primate,Chrysocyon,brachyurus,pos,NA,mechanically cleaned fruit,yes,0.52,0.48,100,0.31,0.69,100,,,,locality EEJA,Alex,Evan
+76,Solanum,crinitum,non-flying mammal other than primate,Chrysocyon,brachyurus,pos,NA,mechanically cleaned fruit,yes,0.033,0.967,720,0.001,0.999,720,,,,locality EEJA,Alex,Evan
+76,Solanum,crinitum,non-flying mammal other than primate,Chrysocyon,brachyurus,no,NA,mechanically cleaned fruit,yes,0.177,0.823,180,0.16,0.84,180,,,,locality EEJA,Alex,Evan
+76,Solanum,lycocarpum,non-flying mammal other than primate,Chrysocyon,brachyurus,pos,NA,mechanically cleaned fruit,yes,0.089,0.911,180,0.122,0.878,180,,,,locality PFSP,Alex,Evan
+76,Solanum,lycocarpum,non-flying mammal other than primate,Chrysocyon,brachyurus,pos,NA,mechanically cleaned fruit,yes,0.5,0.5,40,0.225,0.775,40,,,,locality UFSC,Alex,Evan
+76,Solanum,lycocarpum,non-flying mammal other than primate,Chrysocyon,brachyurus,no,NA,mechanically cleaned fruit,yes,0.6,0.4,30,0.133,0.867,30,,,,locality UFSC,Alex,Evan
+76,Solanum,lycocarpum,non-flying mammal other than primate,Chrysocyon,brachyurus,no,NA,mechanically cleaned fruit,yes,0.3,0.7,30,0.633,0.367,30,,,,locality UFSC,Alex,Evan
+76,Solanum,lycocarpum,non-flying mammal other than primate,Chrysocyon,brachyurus,pos,NA,mechanically cleaned fruit,yes,0.117,0.883,60,0.283,0.717,60,,,,locality UFSC,Alex,Evan
+76,Solanum,lycocarpum,non-flying mammal other than primate,Chrysocyon,brachyurus,pos,NA,mechanically cleaned fruit,yes,0.433,0.567,30,0.367,0.633,30,,,,locality UFSC,Alex,Evan
+76,Solanum,lycocarpum,non-flying mammal other than primate,Chrysocyon,brachyurus,no,NA,mechanically cleaned fruit,yes,0,1,180,0,1,180,,,,locality EEJA,Alex,Evan
+76,Solanum,lycocarpum,non-flying mammal other than primate,Chrysocyon,brachyurus,neg,NA,mechanically cleaned fruit,yes,0.26,0.74,50,0.58,0.42,50,,,,locality EEJA,Alex,Evan
+76,Solanum,lycocarpum,non-flying mammal other than primate,Chrysocyon,brachyurus,neg,NA,mechanically cleaned fruit,yes,0.28,0.72,50,0.76,0.24,50,,,,locality EEJA,Alex,Evan
+76,Solanum,lycocarpum,non-flying mammal other than primate,Chrysocyon,brachyurus,no,NA,mechanically cleaned fruit,yes,0.64,0.36,50,0.82,0.18,50,,,,locality EEJA,Alex,Evan
+76,Solanum,lycocarpum,non-flying mammal other than primate,Chrysocyon,brachyurus,pos,NA,mechanically cleaned fruit,yes,0.68,0.32,50,0.44,0.56,50,,,,locality EEJA,Alex,Evan
+76,Solanum,lycocarpum,non-flying mammal other than primate,Chrysocyon,brachyurus,pos,NA,mechanically cleaned fruit,yes,0.86,0.14,50,0.58,0.42,50,,,,locality EEJA,Alex,Evan
+78,Rubus,spp,non-flying mammal other than primate,Martes,sp.,no,NA,mechanically cleaned fruit,yes,0.065,0.935,2409,0.01,0.99,200,,,,,Alex,Evan
+78,Rubus,idaeus,non-flying mammal other than primate,Martes,sp.,no,NA,mechanically cleaned fruit,yes,0.239,0.761,3304,0.178,0.822,400,,,,,Alex,Evan
+78,Vaccinium,myrtillus,non-flying mammal other than primate,Martes,sp.,pos,NA,mechanically cleaned fruit,yes,0.807,0.193,700,0.362,0.638,850,,,,,Alex,Evan
+110,Casearia,lasiophylla,non-flying mammal,Nasua,nasua,no ,no,depulp,yes,0.814,0.186,390,0.842,0.158,120,,,,,AMG,Alex
+110,Cecropia,pachystachya,non-flying mammal,Nasua,nasua,no ,no,depulp,yes,0.693,0.307,390,0.763,0.237,450,,,,,AMG,Alex
+110,Ficus,obtusifolia,non-flying mammal,Nasua,nasua,no ,no,depulp,yes,0.86,0.14,390,0.8,0.2,180,,,,,AMG,Alex
+110,Guazuma,ulmifolia,non-flying mammal,Nasua,nasua,no ,no,depulp,yes,0.073,0.927,240,0.077,0.923,690,,,,,AMG,Alex
+110,Lithraea,molleoides,non-flying mammal,Nasua,nasua,no ,no,depulp,yes,0.033,0.967,60,0.267,0.733,60,,,,,AMG,Alex
+110,Myrcia,splendens,non-flying mammal,Nasua,nasua,pos,no,depulp,yes,0.733,0.267,60,0.996,0.004,480,,,,,AMG,Alex
+110,Lithraea,molleoides,non-flying mammal,Nasua,nasua,no ,no,with pulp,yes,0.033,0.967,60,0.13,0.87,300,,,,"for a few of their controls, they left pulp on extracted seeds",AMG,Alex
+110,Myrcia,splendens,non-flying mammal,Nasua,nasua,pos,no,with pulp,yes,0.733,0.267,60,0.247,0.753,360,,,,"for a few of their controls, they left pulp on extracted seeds",AMG,Alex
+111,Diospyros,egrettarum,reptile,Aldabrachelys,gigantea,pos,pos,depulp,yes,0.42,0.58,300,0.12,0.88,300,,,,,AMG,Alex
